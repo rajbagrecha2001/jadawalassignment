@@ -1,6 +1,6 @@
 # jadawalassignment
 Made a static, mobile-responsive page for a property listing which contains a fixed header, footer, property images, details, features, seller contact, map-integration.
-Used HTML, CSS, Javascript (for image gallery), Canva (for designing Logo), Bootstrap Icons, Google Font (Raleway).
+Used HTML, CSS, Javascript (for image gallery), Canva (for designing Logo), Bootstrap Icons, Google Font (Raleway), Freepik (stock images). 
 
 Screenshots (Desktop):
 
